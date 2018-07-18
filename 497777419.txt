@@ -1,0 +1,17 @@
+	Cafe Management System:
+Bill Number : 497777419
+=======================================
+ITEMS		QUANTITY	PRICE
+Green Tea :		4	80.0Rs
+Cold Coffee :		4	120.0Rs
+Espresso :		4	200.0Rs
+=======================================
+Black Forest Cake :	5	500.0Rs
+=======================================
+Tax :			10.0%
+Sub Total :			900.0Rs
+Total :			810.0Rs
+=======================================
+Date: 05-Jun-2018
+Time: 11:13:44
+	Thank you

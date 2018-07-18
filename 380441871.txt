@@ -1,0 +1,18 @@
+	Cafe Management System:
+Bill Number : 380441871
+===============================================
+ITEMS		QUANTITY	PRICE
+Cold Coffee :		3	90.0Rs
+Espresso :		3	150.0Rs
+Cappucino :		3	240.0Rs
+Latte :		3	195.0Rs
+===============================================
+Pan Cake :		2	110.0Rs
+===============================================
+Tax :			10.0%
+Sub Total :			785.0
+Total :			863.5
+===============================================
+Date: 28-May-2018
+Time: 01:46:41
+	Thank you

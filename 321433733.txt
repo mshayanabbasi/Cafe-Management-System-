@@ -1,0 +1,17 @@
+	Cafe Management System:
+Bill Number : 321433733
+=======================================
+ITEMS		QUANTITY	PRICE
+Green Tea :		2	40.0Rs
+Cold Coffee :		1	30.0Rs
+Cappucino :		2	160.0Rs
+=======================================
+Boston Cream Cake :	1	60.0Rs
+=======================================
+Tax :			10.0%
+Sub Total :			290.0Rs
+Total :			261.0Rs
+=======================================
+Date: 05-Jun-2018
+Time: 12:00:20
+	Thank you

@@ -1,0 +1,19 @@
+	Cafe Management System:
+Bill Number : 438569798
+=======================================
+ITEMS		QUANTITY	PRICE
+Cold Coffee :		4	120.0Rs
+Espresso :		4	200.0Rs
+Cappucino :		3	240.0Rs
+=======================================
+Boston Cream Cake :	4	240.0Rs
+Pan Cake :		3	165.0Rs
+Sponge Cake :		2	160.0Rs
+=======================================
+Tax :			10.0%
+Sub Total :			1125.0Rs
+Total :			1237.5Rs
+=======================================
+Date: 05-Jun-2018
+Time: 10:09:29
+	Thank you

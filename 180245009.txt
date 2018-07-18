@@ -1,0 +1,18 @@
+	Cafe Management System:
+Bill Number : 180245009
+===============================================
+ITEMS		QUANTITY	PRICE
+Green Tea :		3	60.0Rs
+Cold Coffee :		3	90.0Rs
+Espresso :		2	100.0Rs
+===============================================
+Boston Cream Cake :	3	180.0Rs
+Black Forest Cake :	2	200.0Rs
+===============================================
+Tax :			10.0%
+Sub Total :			630.0
+Total :			693.0
+===============================================
+Date: 28-May-2018
+Time: 01:44:01
+	Thank you

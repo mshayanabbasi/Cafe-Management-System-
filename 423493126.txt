@@ -1,0 +1,18 @@
+	Cafe Management System:
+Bill Number : 423493126
+=======================================
+ITEMS		QUANTITY	PRICE
+Green Tea :		4	80.0Rs
+Espresso :		3	150.0Rs
+=======================================
+Boston Cream Cake :	3	180.0Rs
+Pan Cake :		3	165.0Rs
+Sponge Cake :		2	160.0Rs
+=======================================
+Tax :			10.0%
+Sub Total :			735.0Rs
+Total :			808.5Rs
+=======================================
+Date: 29-May-2018
+Time: 22:26:15
+	Thank you
